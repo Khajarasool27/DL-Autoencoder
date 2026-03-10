@@ -170,7 +170,7 @@ visualize_denoising(model, test_loader)
 ### OUTPUT
 
 ### Model Summary
-Include your model summary
+<img width="819" height="489" alt="image" src="https://github.com/user-attachments/assets/46072ea2-6f28-4909-9bf3-a96fc9b93c1e" />
 
 ### Training loss
 <img width="290" height="118" alt="image" src="https://github.com/user-attachments/assets/022b733f-b172-47b1-84e6-5770f6b0fe55" />
